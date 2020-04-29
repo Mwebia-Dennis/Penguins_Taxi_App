@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ride_with_us">Ride With Us</string>
+    <string name="get_started">Get Started</string>
+    <string name="work_for_us">Work For Us</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="request_uber">Request Uber</string>
+    <string name="cancel_uber">cancel uber</string>
+    <string name="finding_uber">finding Uber...</string>
+    <string name="try_again">Sorry,Could Not Request Uber,please try again</string>
+    <string name="title_activity_drivers_location">Map</string>
+    <string name="accept">Accept Request</string>
+    <string name="uber_is">Your uber is</string>
+    <string name="km_away">km away</string>
+</resources>
